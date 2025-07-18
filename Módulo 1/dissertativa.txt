@@ -1,0 +1,30 @@
+2) RESPOSTA:
+
+c) programação orientada a objetos
+
+JUSTIFICATIVA:
+
+A Programação Orientada a Objetos seria a melhor opção em relação à
+estrutura e interação graças ao sistema de classes, já existente no 
+paradigma que poderá facilitar o processo de relacionar livros, au- 
+tores, etc. O sistema poderia agrupar livros de um mesmo autor ou 
+usuários com livros atrasados em uma única classe. Também facilita-
+ria para relacionar diferentes informações a um único livro (autor,
+gênero literário, prateleira física onde se encontra, se está em-
+prestado, etc.).
+
+Em questão de reuso, a Programação Orientada a Objetos também seria
+uma boa opção, pois o paradigma suporta encapsulamento, facilitando 
+o processo de reutilização de trechos de código.
+
+A Programação Orientada a Objetos facilitaria a evolução do sistema
+futuramente, pois o paradigma possui uma estrutura organizada que
+torna desnecessário de ferramentas como o GO TO. Além disso, os sis-
+temas de herança e polimorfismo agilizar processo de criação de no-
+vas classes dentro do código. O encapsulamento de trechos de código
+também facilitariam a implementação de novas funcionalidades sem 
+comprometer partes antigas do programa e evitando que elas atrapalhem
+na organização do código geral.
+
+Por essas razões a Programação Orientada a Objetos seria o paradigma
+mais enficiente nesse cenário.
